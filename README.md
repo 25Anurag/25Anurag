@@ -8,12 +8,13 @@ A developer crafting cross-platform apps and exploring AI/ML for innovative solu
 
 ## 🚀 About Me
 
-- 👀 I’m interested in Cross-Platform Application Development.
-- 🌱 Currently learning **TensorFlow Lite** with **Flutter**.
-- 💞️ Open to collaboration on Flutter and ML-integrated mobile apps.
-- 📫 Reach me at: **anu25rag1@gmail.com**
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I sometimes refactor my code just to make the indentation look prettier 😄
+- 👀 Passionate about **Cross-Platform Application Development** and creating seamless user experiences.
+- 🌱 Currently exploring **TensorFlow Lite** with **Flutter** to integrate AI into mobile apps.
+- 💞️ Always open to collaboration on **Flutter** and **ML-driven mobile projects**.
+- 📫 Feel free to reach me at: **anu25rag1@gmail.com**
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: I refactor my code just to make the indentation look perfect! 😄
+
 
 ---
 
