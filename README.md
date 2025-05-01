@@ -1,4 +1,5 @@
-# # 👋 Hi, I'm Anurag (@25Anurag) — A developer crafting cross-platform apps and exploring AI/ML for innovative solutions.
+# # 👋 Hi, I'm Anurag (@25Anurag) 
+A developer crafting cross-platform apps and exploring AI/ML for innovative solutions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=25Anurag&color=blue)
 
