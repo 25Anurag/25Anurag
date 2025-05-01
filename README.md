@@ -1,8 +1,7 @@
-# 👋 Hi there, I'm Anurag (@25Anurag)
+# # 👋 Hi, I'm Anurag (@25Anurag) — A developer crafting cross-platform apps and exploring AI/ML for innovative solutions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=25Anurag&color=blue)
 
-I'm a tech enthusiast focused on **Cross-Platform Application Development**. I love building beautiful, high-performance apps using **Flutter**, and I'm currently diving into the world of **Machine Learning** with **TensorFlow Lite**.
 
 ---
 
